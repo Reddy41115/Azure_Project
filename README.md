@@ -8,4 +8,5 @@ Key features:
 - Incremental loading using CDC columns
 - Dynamic folder and file naming
 - Integration with **Logic Apps** for alerting
-<img width="1146" height="362" alt="image" src="https://github.com/user-attachments/assets/d7db584d-d485-4059-80c1-ccca9d3ba52c" />
+<img width="1138" height="362" alt="image" src="https://github.com/user-attachments/assets/5e583909-621c-4bf8-90b6-d20b5b84b492" />
+
